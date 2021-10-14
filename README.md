@@ -3,10 +3,11 @@
 - Technologies used : **Javascript** and **Firebase** database.
 
 ## INSTALLATION
-- Download the repository as ZIP.
+- Download the repository as ZIP.<img align="right" width="300" height="150" src="https://user-images.githubusercontent.com/92536795/137401383-442a9800-b8f4-4771-94c6-02ab5e52aae8.png">
 - Extract the ZIP folder locally.
+
 - Visit chrome://extensions/ and turn on developer mode (toggle in top right)
-- Click Load unpacked and select the directory you extracted earlier.
+- Click Load unpacked and select the directory you extracted earlier.                  
 
 ## Description
 - User can submit a new coupon by clicking  **"Submit Coupon"**  button and filling form.
@@ -18,5 +19,4 @@
 - Coupon codes and descriptions are stored in **Realtime Firebase database**.
 
 ![WhatsApp Image 2021-10-15 at 3 13 33 AM](https://user-images.githubusercontent.com/92536795/137400355-d1c2237c-868c-48cf-97aa-b71c69d80c16.jpeg)
-
 
